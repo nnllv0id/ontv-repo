@@ -1,1 +1,3 @@
-04aaa43b28d3e0682e1d2cb1236dfce9
+```bash
+md5sum addons.xml | cut -d' ' -f1 > addons.xml.md5
+```
