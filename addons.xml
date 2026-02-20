@@ -32,8 +32,8 @@
       <provides>video</provides>
     </extension>
     <extension point="xbmc.addon.metadata">
-      <summary lang="pt">OnTV - O Seu Portal IPTV</summary>
-      <description lang="pt">Portal IPTV com múltiplos servidores M3U e navegação por grupos.</description>
+      <summary lang="pt">OnTV - O Seu Portal de Live TV</summary>
+      <description lang="pt">Portal de Live TV com múltiplos servidores.</description>
       <platform>all</platform>
       <language>pt</language>
     </extension>
