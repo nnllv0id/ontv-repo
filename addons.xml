@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addons>
+
+  <addon id="repository.ontv"
+         name="Repositório OnTV"
+         version="1.0.0"
+         provider-name="OnTV">
+    <requires>
+      <import addon="xbmc.addon" version="12.0.0"/>
+    </requires>
+    <extension point="xbmc.addon.repository" name="Repositório OnTV">
+      <info compressed="false">https://nnllv0id.github.io/ontv-repo/addons.xml</info>
+      <checksum>https://nnllv0id.github.io/ontv-repo/addons.xml.md5</checksum>
+      <datadir zip="true">https://nnllv0id.github.io/ontv-repo/</datadir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+      <summary lang="pt">Repositório Oficial OnTV</summary>
+      <description lang="pt">Repositório oficial do addon OnTV.</description>
+      <platform>all</platform>
+      <language>pt</language>
+    </extension>
+  </addon>
+
+  <addon id="plugin.video.ontv"
+         name="OnTV"
+         version="1.0.0"
+         provider-name="OnTV">
+    <requires>
+      <import addon="xbmc.python" version="3.0.0"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="default.py">
+      <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+      <summary lang="pt">OnTV - O Seu Portal IPTV</summary>
+      <description lang="pt">Portal IPTV com múltiplos servidores M3U e navegação por grupos.</description>
+      <platform>all</platform>
+      <language>pt</language>
+    </extension>
+  </addon>
+
+</addons>
