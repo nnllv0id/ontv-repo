@@ -53,3 +53,7 @@ IPTV addon for Kodi 21+ with support for Stalker/MAC portals and Xtream Codes.
   <br/>
   <sub>Kodi 21+ · OnTV Repository</sub>
 </p>
+<p align="center">
+  <br/>
+  <sub>[github.io/ontv-repo](https://nnllv0id.github.io/ontv-repo/)</sub>
+</p>
