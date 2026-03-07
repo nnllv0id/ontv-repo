@@ -29,7 +29,7 @@
   <extension point="xbmc.addon.metadata">
     <platform>all</platform>
     <summary lang="en">OnTV</summary>
-    <description lang="en">Streams Portal</description>
+    <description lang="en">Streams Portal — Xtream, Stalker/MAC, M3U</description>
     <assets>
       <icon>icon.png</icon>
       <fanart>fanart.png</fanart>
