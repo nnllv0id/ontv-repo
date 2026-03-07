@@ -28,8 +28,8 @@
   <extension point="xbmc.service" library="service.py" start="login"/>
   <extension point="xbmc.addon.metadata">
     <platform>all</platform>
-    <summary lang="en">OnTV IPTV</summary>
-    <description lang="en">IPTV Portal — Xtream Codes, Stalker/MAC, M3U</description>
+    <summary lang="en">OnTV</summary>
+    <description lang="en">Streams Portal</description>
     <assets>
       <icon>icon.png</icon>
       <fanart>fanart.png</fanart>
