@@ -1,5 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addons>
+<addon id="plugin.video.daddylive" name="DaddyLive" version="1.0.0" provider-name="OnTV">
+  <requires>
+    <import addon="xbmc.python" version="3.0.0"/>
+    <import addon="script.module.requests" version="2.27.1"/>
+    <import addon="script.module.six"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <summary lang="en">DaddyLive — 24/7 Live TV Channels</summary>
+    <description lang="en">Watch 1000+ live TV channels from DaddyLive including sports, news and entertainment.</description>
+    <assets>
+      <icon>icon.png</icon>
+      <fanart>fanart.png</fanart>
+    </assets>
+  </extension>
+</addon>
 <addon id="plugin.video.f4mTester" version="4.2.5" name="f4mTester" provider-name="Joel">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
