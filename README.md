@@ -1,4 +1,4 @@
-# OnTV — Kodi Addon
+# OnTV — Repository
 
 > 🇵🇹 Português | 🇬🇧 English
 
