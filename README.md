@@ -51,5 +51,6 @@ Addon for Kodi 21+
 <p align="center">
   <img src="repository.ontv/icon.png" width="220"/>
   <br/>
-  <sub>Kodi 21+ · OnTV Repository · <a href="https://nnllv0id.github.io/ontv-repo/">github.io/ontv-repo</a></sub>
+  <sub>Kodi 21+ · OnTV Repository 
+    <a href="https://nnllv0id.github.io/ontv-repo/">github.io/ontv-repo</a></sub>
 </p>
