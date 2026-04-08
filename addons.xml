@@ -18,7 +18,7 @@
     <assets><icon>icon.png</icon></assets>
   </extension>
 </addon>
-<addon id="plugin.video.ontv" name="OnTV" version="1.0.2" provider-name="OnTV">
+<addon id="plugin.video.ontv" name="OnTV" version="1.0.3" provider-name="OnTV">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
   </requires>
